@@ -1,7 +1,6 @@
 {
-  "banner_id": "ca-app-pub-6335103216414556/YOUR_BANNER_UNIT",
-  "native_id": "ca-app-pub-6335103216414556/YOUR_NATIVE_UNIT",
-  "interstitial_id": "ca-app-pub-6335103216414556/YOUR_INTERSTITIAL_UNIT",
-  "ads_enabled": true,
-  "interstitial_interval": 2
+  "app_open_id": "ca-app-pub-4754459062262858/5200698933",
+  "banner_id": "ca-app-pub-4754459062262858/8112280225",
+  "interstitial_id": "ca-app-pub-4754459062262858/5771185784",
+  "native_id": "ca-app-pub-4754459062262858/6513780605"
 }
