@@ -1,10 +1,11 @@
 {
   "ads_configuration": {
     "is_ads_enabled": true,
-    "banner_ad_unit_id": "ca-app-pub-6335103216414556/7612074008",
-    "interstitial_ad_unit_id": "ca-app-pub-6335103216414556/2100368235",
-    "native_ad_unit_id": "ca-app-pub-6335103216414556/3409105110",
-    "app_open_ad_unit_id": "ca-app-pub-6335103216414556/1377479358",
+    "banner_ad_unit_id": "ca-app-pub-4754459062262858/8869257881",
+    "interstitial_ad_unit_id": "ca-app-pub-4754459062262858/9531602868",
+    "native_ad_unit_id": "ca-app-pub-4754459062262858/1146205179",
+    "app_open_ad_unit_id": "ca-app-pub-4754459062262858/7919138292",
     "interval_interstitial": 3,
   }
 }
+
